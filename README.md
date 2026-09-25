@@ -1,7 +1,6 @@
-# PMIOTuML Assignment 2: Financial Habits ML Prediction
+ Financial Habits ML Prediction
 
-**Author:** KC Akash Shetty | **USN:** 23BTRCO058 | **Branch:** CSE-IoT  
-**Course:** PMIOTuML | **Instructor:** Dr. N. Vikram  
+
 
 ## Project Overview
 This repository contains the complete Laboratory Experiment and machine learning pipeline for Assignment 2. The project performs Exploratory Data Analysis (EDA) and predictive modeling on a self-reported financial habits dataset. The primary objective is to classify and predict budgeting behavior based on demographic and behavioral survey responses, bridging the gap between attitudinal survey data and machine learning classification.
