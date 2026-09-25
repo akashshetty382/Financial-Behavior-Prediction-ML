@@ -3,7 +3,7 @@
 
 
 ## Project Overview
-This repository contains the complete Laboratory Experiment and machine learning pipeline for Assignment 2. The project performs Exploratory Data Analysis (EDA) and predictive modeling on a self-reported financial habits dataset. The primary objective is to classify and predict budgeting behavior based on demographic and behavioral survey responses, bridging the gap between attitudinal survey data and machine learning classification.
+This repository details a comprehensive data processing and machine learning workflow designed to analyze and predict consumer financial behavior. By applying exploratory data analysis and training classification models on demographic and attitudinal survey responses, the initiative aims to forecast budgeting habits and bridge the gap between behavioral research and applied machine learning.
 
 ## Repository Structure
 * **`financial_habits_survey01.csv`**: The primary dataset containing survey responses regarding budgeting, spending, saving, and investment confidence.
@@ -17,8 +17,7 @@ This repository contains the complete Laboratory Experiment and machine learning
 3. **Machine Learning Implementation:** Split the dataset to predict `follows_budget` as the target variable. Evaluated classical and ensemble classifiers to benchmark performance on non-transactional behavioral data.
 
 ## Results & Literature Comparison
-As outlined in the Assignment 1 Literature Review, the models implemented in this experiment are benchmarked against the baseline results reported in **Paper 20: *Financial Customer Behavior Prediction Based on Machine Learning: A Comprehensive Investigation***. 
-
+In alignment with the findings from the prerequisite literature review, the predictive models developed in this study are evaluated against the empirical baselines established in Financial Customer Behavior Prediction Based on Machine Learning: A Comprehensive Investigation.
 | Machine Learning Model | My Implementation (Accuracy / F1) | Paper 20 Baseline (Accuracy / F1) |
 | :--- | :--- | :--- |
 | **K-Nearest Neighbours** | `[Insert your %]` | `[Insert Paper 20 %]` |
